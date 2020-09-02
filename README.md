@@ -37,3 +37,17 @@
 - [2020年7月ⓓtl](https://gist.github.com/momochikirunya/d5cb3cb0eec76373d8022c71f084f11f)
 - [2020年7月オルレオン模擬](https://gist.github.com/momochikirunya/c2916791c69c354a48a13accfb100ba7)
 - [2020年7月ⓔtl](https://gist.github.com/momochikirunya/b20c5177b7a26094a8af06579dfe7aa6)
+
+### 2020年8月
+- [2020年8月検証総合](https://gist.github.com/momochikirunya/dd15e866a91478a01d8d2e0fad5ad626)
+- [2020年8月凸ルート相談](https://gist.github.com/momochikirunya/5accb77192adb5c4f0d968821a1ebac4)
+- [2020年8月ワイバーン模擬](https://gist.github.com/momochikirunya/e5b4c0b4ae9c1d1ae16fe74ff9d1133f)
+- [2020年8月ⓐtl](https://gist.github.com/momochikirunya/ebe9763d44cf2bb72705777662a92e6b)
+- [2020年8月ワイルドグリフォン模擬](https://gist.github.com/momochikirunya/6cbe29461a2f2321e2be3e3a6209f51d)
+- [2020年8月ⓑtl](https://gist.github.com/momochikirunya/96dbd12c833d20e6086d7c51ac368d25)
+- [2020年8月マダムプリズム模擬](https://gist.github.com/momochikirunya/f455ff6a45e4ee6b0169822224943de3)
+- [2020年8月ⓒtl](https://gist.github.com/momochikirunya/ed458505a10806337053eed8333d4a70)
+- [2020年8月ムーバ模擬](https://gist.github.com/momochikirunya/132497f7fc52fcb3b22e6b8915eb49e5)
+- [2020年8月ⓓtl](https://gist.github.com/momochikirunya/dbdd9cc8517ec8086f754584f2afbaff)
+- [2020年8月メデューサ模擬](https://gist.github.com/momochikirunya/706195f0c2c37789d8a4e19c02164cb2)
+- [2020年8月ⓔtl](https://gist.github.com/momochikirunya/bcd5a5efd4b1f534d6f8529f66092c4e)
