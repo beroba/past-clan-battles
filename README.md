@@ -94,3 +94,18 @@
 - [サジタリウス](https://gist.github.com/momochikirunya/997df6824725860cf3f74e20ca90a479)
 - [サジタリウス-オート](https://gist.github.com/momochikirunya/20f0c7aa50714c81bd4b89b69ff6f327)
 - [持ち越し用](https://gist.github.com/momochikirunya/a11ce5b0f27fab5ebce15b65c4e18689)
+
+### 2020年12月
+- [12月-検証総合](https://gist.github.com/momochikirunya/b85f10124a3c44dbe4aaceb8e1edb119)
+- [12月-凸ルート案](https://gist.github.com/momochikirunya/0e97a0f4d6ea0c6c85aff27599d7730f)
+- [ゴブリングレート](https://gist.github.com/momochikirunya/f5c06eb2e60e7ca360ea2ccfbc62173c)
+- [ゴブリングレート-オート](https://gist.github.com/momochikirunya/c16392664b9da13381eec5c2a3a308e2)
+- [ランドスロース](https://gist.github.com/momochikirunya/3e5a2e610d59cbf23dc0ff82f73756ed)
+- [ランドスロース-オート](https://gist.github.com/momochikirunya/cfb92594d969bd35ee347667c0a593e4)
+- [ニードルクリーパー](https://gist.github.com/momochikirunya/ad25d78d1b90698e5d57ab5973e224f9)
+- [ニードルクリーパー-オート](https://gist.github.com/momochikirunya/71dd69c6fc5adffe9f02ed198f4af828)
+- [トライロッカー](https://gist.github.com/momochikirunya/a0d8c39a84aab14473c43efd8c2dd3c6)
+- [トライロッカー-オート](https://gist.github.com/momochikirunya/42c749c48328bc966704c7510e304d00)
+- [アルゲティ](https://gist.github.com/momochikirunya/cbe6960e5998f7208676db02b0bb4982)
+- [アルゲティ-オート](https://gist.github.com/momochikirunya/55b6ddf82acb5b3b5f0327ffb6616b9d)
+- [持ち越し編成](https://gist.github.com/momochikirunya/9b8ae1ae06accd269934b4e8e2b121dd)
