@@ -124,3 +124,18 @@
 - [アクアリオス](https://gist.github.com/momochikirunya/6f9bf37d3365e643afcce1aebd991350)
 - [アクアリオス-オート](https://gist.github.com/momochikirunya/6769eb131b4c2f5c7f548b2a67b88df0)
 - [持ち越し編成](https://gist.github.com/momochikirunya/e9e613a5dc533a5bbc2686e498be92a3)
+
+### 2021年02月
+- [2月-凸ルート案](https://gist.github.com/momochikirunya/b10d8a47280e206f709a7a4db50cf21e)
+- [2月-検証総合](https://gist.github.com/momochikirunya/ad1567e3a21dd67927a773db1a313447)
+- [ワイバーン](https://gist.github.com/momochikirunya/c9a1cb24821104adb243914250ef04e5)
+- [ワイバーン-オート](https://gist.github.com/momochikirunya/816217f2184cab3553c7cc8d117794aa)
+- [ライライ](https://gist.github.com/momochikirunya/cb45c33686eb248a92c6a183428c3ac3)
+- [ライライ-オート](https://gist.github.com/momochikirunya/eb50ebba8b45f914cb1c100fda766030)
+- [シードレイク](https://gist.github.com/momochikirunya/cbf7b6bc0ba70cfcda77e55b72536731)
+- [シードレイク-オート](https://gist.github.com/momochikirunya/f47ec2381c85e5a8a6ea01addb730135)
+- [ウールヴヘジン](https://gist.github.com/momochikirunya/95f01dd0c6e17524a25c4a98af0d34c4)
+- [ウールヴヘジン-オート](https://gist.github.com/momochikirunya/f17939753c52f65a68b0e5e466286f3a)
+- [トルペドン](https://gist.github.com/momochikirunya/822eea0ecf0519ae4ea009f9b5341bfb)
+- [トルペドン-オート](https://gist.github.com/momochikirunya/481a629edfd02bc351ef6324fa51a414)
+- [持ち越し編成](https://gist.github.com/momochikirunya/876aefac8f684ef0fa76b2e4466c2d2e)
